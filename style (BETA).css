@@ -1,0 +1,132 @@
+ body {
+     margin: 0;
+ }
+ 
+ .main {
+     width: 700px;
+     max-width: 100%;
+     margin: auto;
+     padding: 0;
+     /* background-color: aqua; */
+     /* remove-color */
+ }
+ 
+ header img {
+     max-width: 100%;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+ }
+ 
+ hr {
+     margin: 2px 50px 0 50px;
+ }
+ 
+ h3 {
+     font-family: Arial, Helvetica, sans-serif;
+     text-align: justify;
+     color: #F05C06;
+     margin: 0 0;
+     margin: 20px 50px 0 50px;
+ }
+ 
+ article ul {
+     padding-left: 15px;
+ }
+ 
+ article .list0 {
+     padding-left: 45px;
+ }
+ 
+ h2 {
+     display: block;
+     text-align: center;
+     color: #AC3516;
+     border: solid 1px #AC3516;
+     margin: auto 50px auto 50px;
+     padding: 10px 25px;
+ }
+ 
+ p {
+     font-family: Arial, Helvetica, sans-serif;
+     text-align: justify;
+     font-size: 14px;
+     margin: 20px 50px 0 50px;
+ }
+ /* ul {
+     padding: 0;
+} */
+ 
+ li {
+     font-family: Arial, Helvetica, sans-serif;
+     text-align: justify;
+     font-size: 14px;
+     margin: 20px 50px 0 50px;
+ }
+ 
+ .someinfo div {
+     border: solid 1px #F05C06;
+     margin: auto 50px auto 50px;
+ }
+ 
+ .someinfo div p img {
+     max-width: 100%;
+ }
+ 
+ section div {
+     border: solid 1px #F05C06;
+     margin: auto 50px auto 50px;
+ }
+ 
+ .someinfo div p {
+     margin: 10px 0 0 10px;
+ }
+ 
+ section p .color-text {
+     color: #F05C06;
+     font-size: 1.1em;
+ }
+ 
+ section p {
+     font-family: Arial, Helvetica, sans-serif;
+     text-align: justify;
+     font-size: 14px;
+ }
+ 
+ footer p {
+     background-color: #ECEDEF;
+     color: #97989A;
+     padding: 20px;
+     text-align: center;
+     margin-bottom: 20px;
+     margin-left: auto;
+     margin-right: auto;
+ }
+ /* under-procces */
+ 
+ .order1 {
+     padding: 0;
+ }
+ 
+ .order2 {
+     padding: 0;
+     position: relative;
+     left: 225px;
+     top: -109.5px;
+ }
+ 
+ .order3 {
+     padding: 0;
+     position: relative;
+     left: 380px;
+     top: -209.5px;
+ }
+ /* pseudo classes */
+ 
+ .someinfo div p img:hover {
+     position: relative;
+     top: -4px;
+ }
+ /* .someinfo div:hover {
+     box-shadow: 0 4px 8px 0 grey;
+ } */
